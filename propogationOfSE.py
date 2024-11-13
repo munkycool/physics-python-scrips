@@ -1,10 +1,10 @@
 import numpy as np
 
 def main():
-    angle1 = 19
-    std_dev_angle1 = 1
-    force1 = .6029099
-    std_dev_force1 = .012058198
+    angle1 = 23
+    std_dev_angle1 = 0.5
+    force1 = 56.7
+    std_dev_force1 = 1.03
     
     angle2 = 127
     std_dev_angle2 = 1
